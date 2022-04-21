@@ -1,0 +1,12 @@
+
+Name: Anmol 
+Registration Number=1 
+Marks=20 
+
+Name: Ankit 
+Registration Number=2 
+Marks=42 
+
+Name: Tara 
+Registration Number=3 
+Marks=56 
